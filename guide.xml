@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Cartoon Network">
+    <display-name lang="tr">Cartoon Network</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="tr">Boomerang</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="tr">Disney Channel</display-name>
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+</tv>
