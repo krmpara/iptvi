@@ -63,17 +63,17 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639797117/ei/H
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BBN Turk HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/03/iptv_logo.png" group-title="TR | HABER",TR: BBN Turk HD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/130351
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EKO TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EKOTURK_SD.png" group-title="TR | HABER",TR: EKO TURK
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/44075
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639798048/ei/wAC9YY4b1b3WAvinn4AM/ip/45.12.52.145/id/xguqVF-eHc0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKbCVxBLiKWL171_93g25kPUUdZrOUVA2yaj6Do6P-j4CIQCUW8vY3wO9iDM8acame2bvakcgcQ_PUqJNlmQcHG9aiQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 24 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL24_HD.png" group-title="TR | HABER",TR: 24 HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5961
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV NET" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tvnett___250x150.png" group-title="TR | HABER",TR: TV NET
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5965
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639797989/ei/hQC9Yfe_EZfZgQf5-7rgCw/ip/45.12.52.145/id/Hc1QLDpH6bs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgWRkM6vyLAj1Ps2CpGTFiZrfqgCjHZQrg_Jj0WAU1Dd8CIQDPuDgiLF8IsfpHFtgdTQem3XQB9wc_jaZhuGJrwAyIhQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ULKE TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ULKE_TV_HD.png" group-title="TR | HABER",TR: ULKE TV HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5956
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639797925/ei/RQC9YZzMAsip7gOim5WYBQ/ip/45.12.52.145/id/T5F9g4SFSZo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPC9HwKzSzZk1QSTn7SUz64TU7DsHh3RI8dErvxrVVHICIAYk9l0qisOC80fNlHgk-dcZsOdgZVJhhWtnZgj1sm6I/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AKIT TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKIT_TV_HD.png" group-title="TR | HABER",TR: AKIT TV HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/1773
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ARTI 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/arti1.png" group-title="TR | HABER",TR: ARTI 1
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/100980
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639798147/ei/IwG9YcnvIdm6gAfGp5PwBw/ip/45.12.52.145/id/fTstXsJtYX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPeqi5uafhoNkXXfC7f8wFxcGagcYAxlgclSA0jW8D4OAiEArBKc3Z0YMGXRccDJkjIUB7WfqMY9dJSbZ1lkJAdCkTk%3D/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A PARA HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_PARA_SD.png" group-title="TR | HABER",TR: A PARA HD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/43579
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A NEWS HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_NEWS_HD.png" group-title="TR | HABER",TR: A NEWS HD
