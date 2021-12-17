@@ -44,17 +44,17 @@ https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",TR: HABER GLOBAL HD
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR | HABER",TR: BLOOMBERG HT HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/7044
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABERTURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABERTURK_HD.png" group-title="TR | HABER",TR: HABERTURK HD
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AHABER_HD.png" group-title="TR | HABER",TR: A HABER HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/33518
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TGRT HABER" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_HABER_SD.png" group-title="TR | HABER",TR: TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV100 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV100_SD.png" group-title="TR | HABER",TR: TV100 HD
-https://www.youtube.com/embed/8jEXHzMTR7s
+https://www.youtube.com/watch?v=8jEXHzMTR7s
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TELE 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TELE1_SD.png" group-title="TR | HABER",TR: TELE 1
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/6965
+https://youtu.be/jRxTrHibZtQ
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HALK TV SD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/halk_tv.png" group-title="TR | HABER",TR: HALK TV SD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/188738
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KRT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KRT_HD.png" group-title="TR | HABER",TR: KRT HD
