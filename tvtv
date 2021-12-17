@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="TR | ULUSAL",TR: TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
+httatv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&st=OUudNZOWuqiY_fPhF3qC_A&e=1639815421&dfp_paln=AQzzBGQE6AUeq4niZedf-g9BlVYg1q8cjxfD5-uxCunocx9ASiYHkDIYE9N3oTDKGC-fKOfvXlXDlqIR9j7Kjy2rFceVyXOa2bvDqtdTVkJg-CGwCvBYem1ZiY0c7HMvqN44w5NUa-mHWq7Y_LTSbkwMSiXKiCt1GlErIrpN4alaYLsHM3_AeCxTk3f7T2KsaeTie8fLfBslfqinwuaTd0K1Chd1EY252WznIfM96tyqTQOKhaoaNCV3krM3EUNu9jjoryHqg9bWcUqM2KAI0rv--VQJ3gbbo53W3Di5mtx8DHWZ9pxwhZ7VPR8d3Fp6KuhWKBDweRa6VzQowPyOiA6v5SRfe_EnkXmw22RhdCDHzKEvQ7QK-LsCLK2G4U58ejTPujAdVFPMuEsbqbpPIrMOle4REfapquuM0IdV3Z4oSCm9Pyi-qMTwaq_AEd-hNC9DAFcbd9g7D_Z1bsg06-wWacHxL2sT9mIwMwEY7UUoBiej2OWCIrQFvLeFIifT8CrtUEOH7z5A4Vff8RtCt_FJUI119JYqqcWpuZD5uw8MxielIs-7Dl9pzf1k-2cwGq2npUEId9L8t4UEoF0ZC8nj5lGpzMhK5GvIIYHrx_4cTUkF458vzCve2CFqR35D1-FjkFiMJp6IEyepIiy3XNMkhmk5Jwa7nwik_xb9FC-AWPyQBQtx2lQFDJ8AW2NUTHSDbhToNRFci9fE80BsPYIEpygOb5fPTfQyhRBmyGE4So8RzFS0r5JsSbUI9FNqQJNTp6eaBQjCzyRcAJalJ60Ieblqa0VFSXeJMNzSWS9ZEMEOfESuo7x5GWYSLqdo7wmSQThMWD1FWFJsoca1B1pCfsJEqu_2NWtWOps7zDBReOS-ljQKK0Bpu7JgnivUP6e_9LXpFQzHs0OaxnaVqSzc0ieK0Y7oAjOouabLUjRzxoY_DWZRbUO2d7yNq-ZvOqNEE7HlnBFmWXB3Z7WhLUHkC8kySHl3ggCRmHOH6ubBZLinQti3LyCo70jxoVadIJXmf_JVLI6BW5MMtmi60Ah7Ww..
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: ATV AVRUPA
+https://izmir.tvizlehd.com/atvavrupa.m3u8?tkn=Z2HkS29FnQNheIGBj-ZunQ&tms=1639784998&hst=kumandatv.gen.tl
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL",TR: SHOW TV
+https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1639781088&st=__8DjQBy6IpGPhuXumct4A&tv=1
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639777885&st=8Q1cmCsn2MacE74WN4OIsw&tv=1
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639777974&st=BWSA4tamgf9EvHFwBqcsXQ&tv=1
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5788
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/40222
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5787
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/33515
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=9ARPZ-234XZy8IuVtqXqsQ&e=1639777348
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/7046
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/40
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/54919
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEYAZ_TV_HD.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5924
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FLASH TV HD" tvg-logo="https://vuviptv.com/iptv-satin-al-turkiye-11/wp-content/uploads/2021/10/Flash_TV_hd.png" group-title="TR | ULUSAL",TR: FLASH TV HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/186899
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEVE2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR | ULUSAL",TR: TEVE2 HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/142
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 360 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR | ULUSAL",TR: 360 HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5957
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5928
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",TR: TRT HABER HD
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NTV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",TR: NTV HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/24185
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CNN TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CNN_TURK_HD.png" group-title="TR | HABER",TR: CNN TURK HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/17729
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",TR: HABER GLOBAL HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/41453
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BLOOMBERG HT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BLOOMBERG_HD.png" group-title="TR | HABER",TR: BLOOMBERG HT HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/7044
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABERTURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABERTURK_HD.png" group-title="TR | HABER",TR: HABERTURK HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5960
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AHABER_HD.png" group-title="TR | HABER",TR: A HABER HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/33518
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TGRT HABER" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_HABER_SD.png" group-title="TR | HABER",TR: TGRT HABER
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/47
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV100 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV100_SD.png" group-title="TR | HABER",TR: TV100 HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/8858
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TELE 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TELE1_SD.png" group-title="TR | HABER",TR: TELE 1
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/6965
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HALK TV SD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/halk_tv.png" group-title="TR | HABER",TR: HALK TV SD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/188738
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KRT HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KRT_HD.png" group-title="TR | HABER",TR: KRT HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/44072
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ULUSAL KANAL" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/ulusal_tv.png" group-title="TR | HABER",TR: ULUSAL KANAL
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/1637
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BBN Turk HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/03/iptv_logo.png" group-title="TR | HABER",TR: BBN Turk HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/130351
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EKO TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EKOTURK_SD.png" group-title="TR | HABER",TR: EKO TURK
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/44075
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 24 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL24_HD.png" group-title="TR | HABER",TR: 24 HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5961
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV NET" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tvnett___250x150.png" group-title="TR | HABER",TR: TV NET
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5965
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ULKE TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ULKE_TV_HD.png" group-title="TR | HABER",TR: ULKE TV HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5956
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: AKIT TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/AKIT_TV_HD.png" group-title="TR | HABER",TR: AKIT TV HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/1773
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ARTI 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/arti1.png" group-title="TR | HABER",TR: ARTI 1
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/100980
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A PARA HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_PARA_SD.png" group-title="TR | HABER",TR: A PARA HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/43579
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A NEWS HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_NEWS_HD.png" group-title="TR | HABER",TR: A NEWS HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/43578
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT WORLD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_WORLD_SD.png" group-title="TR | HABER",TR: TRT WORLD HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/74025
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CNN INT." tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER",TR: CNN INT.
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/102707
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BBC WORLD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/1_0_19_587_4_42_1A40000_0_0_0.png" group-title="TR | HABER",TR: BBC WORLD HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/94804
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT COCUK HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TRT_cocuk_250x150.png" group-title="TR | COCUK",TR: TRT COCUK HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5974
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKELODEON HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NICKELODEON_HD.png" group-title="TR | COCUK",TR: NICKELODEON HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5946
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKTOONS" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/nick_toons.png" group-title="TR | COCUK",TR: NICKTOONS
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/36960
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICK JR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/nickJr.png" group-title="TR | COCUK",TR: NICK JR HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5947
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY CHANNEL" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/DISNEYCHANEL_HD.png" group-title="TR | COCUK",TR: DISNEY CHANNEL
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/13097
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY XD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/disney_xd.png" group-title="TR | COCUK",TR: DISNEY XD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/17814
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: DISNEY JR HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/disney_junior.png" group-title="TR | COCUK",TR: DISNEY JR HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5948
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BLUTV KIDS " tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/614c1f47866ac32af8f9759c.png" group-title="TR | COCUK",TR: BLUTV KIDS 
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/183480
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: cocuk SMART HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/COCUK_SMART_HD.png" group-title="TR | COCUK",TR: cocuk SMART HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/32374
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BOOMERANG COCUK" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/boomerang.png" group-title="TR | COCUK",TR: BOOMERANG COCUK
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/73474
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CARTOON NETWORK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/CARTON_NETWORK_DE.png" group-title="TR | COCUK",TR: CARTOON NETWORK
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/137
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA COCUK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_COCUK_SD.png" group-title="TR | COCUK",TR: MINIKA COCUK
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5952
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA GO HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_GO_SD.png" group-title="TR | COCUK",TR: MINIKA GO HD
+http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5953
