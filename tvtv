@@ -12,11 +12,11 @@ https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639791043&st=l9wGQ6arc9ifE
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
-https://live.canlitv.center/eurostar.m3u8?anahtar=ITJc12akVxPCBWaHDkvMbA&sure=1639793538&ip=45.12.52.145
+https://ankara.tvizlehd.com/eurostar.m3u8?tkn=yuBF--30HbMlVZrzdkLHGg&tms=1639798372&hst=www.canlitvizle.mobi
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
-https://ankara.tvizlehd.com/eurod.m3u8
+https://bursa.tvizlehd.com/eurod.m3u8?tkn=I1-KWbxE6_JhNbYVRhwpFQ&tms=1639798335&hst=www.canlitvizle.mobi
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=9ARPZ-234XZy8IuVtqXqsQ&e=1639777348
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
