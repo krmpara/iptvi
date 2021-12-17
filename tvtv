@@ -12,9 +12,9 @@ https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639777885&st=8Q1cmCsn2Mac
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
 https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639777974&st=BWSA4tamgf9EvHFwBqcsXQ&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5788
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/40222
+https://live.canlitv.center/eurostar.m3u8?anahtar=ITJc12akVxPCBWaHDkvMbA&sure=1639793538&ip=45.12.52.145
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5787
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
