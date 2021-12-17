@@ -16,7 +16,7 @@ https://live.canlitv.center/eurostar.m3u8?anahtar=ITJc12akVxPCBWaHDkvMbA&sure=16
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5787
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/33515
+https://ankara.tvizlehd.com/eurod.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=9ARPZ-234XZy8IuVtqXqsQ&e=1639777348
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
@@ -24,7 +24,7 @@ https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/54919
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEYAZ_TV_HD.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FLASH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg" group-title="TR | ULUSAL",TR: FLASH TV HD
@@ -52,7 +52,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TGRT HABER" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TGRT_HABER_SD.png" group-title="TR | HABER",TR: TGRT HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV100 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV100_SD.png" group-title="TR | HABER",TR: TV100 HD
-https://www.youtube.com/watch?v=8jEXHzMTR7s
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639796485/ei/pfq8YYOfBIL3gAemhLfICQ/ip/45.12.52.145/id/8jEXHzMTR7s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVo8QHhPW7hs3e1Ua4635vRiv0QBGzyNxb1HsjGQNZ68CIQCupR1X9zxW--Zd0W-j_o1Tg1kBugc4nopj-lsYjk6Blw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TELE 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TELE1_SD.png" group-title="TR | HABER",TR: TELE 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639796199/ei/hvm8YZfEN5H_1wKZ27f4BA/ip/45.12.52.145/id/jRxTrHibZtQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALCVSxqSKghjy_BMmAw6WOdVNdkgqcMd7VHe2VaJAXlUAiBFvHyKZeA1uQJodLgZRZn0JesKTINAOnHmrPfn8mrlRw%3D%3D/file/index.m3u8#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HALK TV SD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/halk_tv.png" group-title="TR | HABER",TR: HALK TV SD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/188738
