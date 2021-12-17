@@ -26,7 +26,7 @@ http://box.cihx86.com:8080/krmkktrk830/keremkktrk/40
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/54919
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEYAZ_TV_HD.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5924
+https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FLASH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg" group-title="TR | ULUSAL",TR: FLASH TV HD
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEVE2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR | ULUSAL",TR: TEVE2 HD
@@ -36,9 +36,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
 https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",TR: TRT HABER HD
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NTV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",TR: NTV HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/24185
+https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CNN TURK HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CNN_TURK_HD.png" group-title="TR | HABER",TR: CNN TURK HD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/17729
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",TR: HABER GLOBAL HD
