@@ -75,17 +75,17 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ARTI 1" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/arti1.png" group-title="TR | HABER",TR: ARTI 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1639798147/ei/IwG9YcnvIdm6gAfGp5PwBw/ip/45.12.52.145/id/fTstXsJtYX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPeqi5uafhoNkXXfC7f8wFxcGagcYAxlgclSA0jW8D4OAiEArBKc3Z0YMGXRccDJkjIUB7WfqMY9dJSbZ1lkJAdCkTk%3D/file/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A PARA HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_PARA_SD.png" group-title="TR | HABER",TR: A PARA HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/43579
+https://diss.tvizlehd.com/apara.m3u8?tkn=UldaCQyqTfO4GHvAQ68L4A&tms=1639798887&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A NEWS HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/A_NEWS_HD.png" group-title="TR | HABER",TR: A NEWS HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/43578
+https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8?st=YqMnNl1-bMX2mLPH3ooE6g&e=1639829732&SessionID=1.3.652192648.1639784531&StreamGroup=canli-yayin&Site=anews&DeviceGroup=mobil
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT WORLD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_WORLD_SD.png" group-title="TR | HABER",TR: TRT WORLD HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/74025
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CNN INT." tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER",TR: CNN INT.
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/102707
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: BBC WORLD HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/1_0_19_587_4_42_1A40000_0_0_0.png" group-title="TR | HABER",TR: BBC WORLD HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/94804
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT COCUK HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TRT_cocuk_250x150.png" group-title="TR | COCUK",TR: TRT COCUK HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5974
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d31e0a9529d06de1823a3d5a3c970d00a47340016ba6e874bc24bfefcc9e1805063cca59b64e9312bc3c550555f5b0b70740940fa2ad0cc1bd6e0baaba19368fe35b9712162425d00e03a65484552a95b62e7188dd8dccb5382f9140bc3210f4d5692db97033086618afa029bfff7384b218ad021487604f2af6b92c6e916dce14b3b3c684ccf9160c
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT COCUK HD" tvg-logo="https://pbs.twimg.com/profile_images/1455013590503657475/DATp43IH_400x400.jpg" group-title="TR | COCUK",TR: TRT COCUK HD
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKELODEON HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NICKELODEON_HD.png" group-title="TR | COCUK",TR: NICKELODEON HD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5946
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NICKTOONS" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/nick_toons.png" group-title="TR | COCUK",TR: NICKTOONS
@@ -107,6 +107,6 @@ http://box.cihx86.com:8080/krmkktrk830/keremkktrk/73474
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: CARTOON NETWORK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/CARTON_NETWORK_DE.png" group-title="TR | COCUK",TR: CARTOON NETWORK
 https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/playlist.m3u8?hash=77a4c81acbaedfe22390aa3652b85dcc
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA COCUK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_COCUK_SD.png" group-title="TR | COCUK",TR: MINIKA COCUK
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5952
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=47-wx0S2eCoRsHWDD2klMQ&e=1639830278&SessionID=1.3.67881636.1639785077&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=mobil
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: MINIKA GO HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/MINIKA_GO_SD.png" group-title="TR | COCUK",TR: MINIKA GO HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5953
+https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=kdXHEPpKECzwuG7OSKoedQ&e=1639830315&SessionID=1.3.1519882509.1639785115&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil
