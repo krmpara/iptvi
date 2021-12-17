@@ -34,7 +34,7 @@ https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TEVE2 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR | ULUSAL",TR: TEVE2 HD
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 360 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR | ULUSAL",TR: 360 HD
-http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5957
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
 http://box.cihx86.com:8080/krmkktrk830/keremkktrk/5928
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",TR: TRT HABER HD
