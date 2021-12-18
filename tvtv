@@ -14,7 +14,7 @@ https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639853937&st=-6iOEfk4j0yW
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
-https://mugla.tvizlehd.com/eurostar.m3u8?tkn=Xm5FeVMcJY9v1seVJY-7fw&tms=1639859557&hst=www.canlitv.dev
+https://mugla.tvizlehd.com/eurostar.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250&min=0&max=1250
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
