@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
 https://mugla.tvizlehd.com/eurostar.m3u8?tkn=Xm5FeVMcJY9v1seVJY-7fw&tms=1639859557&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
-https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1639856092&st=hweco5KNDNQkMnIkL9Gq1g&tv=1
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250&min=0&max=1250
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
 https://bursa.tvizlehd.com/eurod.m3u8?tkn=I1-KWbxE6_JhNbYVRhwpFQ&tms=1639798335&hst=www.canlitvizle.mobi
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
