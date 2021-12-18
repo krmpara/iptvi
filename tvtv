@@ -1,27 +1,27 @@
 #EXTM3U url-tvg="https://yayinakisi.co/epg/krmkktrk/J2qrYl/1"
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="TR | ULUSAL",TR: TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="ATV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&st=-dXO5YDWHUrDQZvlNuFuog&e=1639873365&dfp_paln=AQzzBGQERZfhBBq3aLYYdJFBH6oG3IXaK7SCWeprdP-_SP9CKvSi71gtvKsuSJwYFetpG7jbn0Lifwa44DxNHTSvE26NkXlTjxwQFbGJ4Am8Qkv9hpNB0tbckR8nMaYkCHJn_KqFPLE0uZoAbglC7KczPvWA6d_kkf20ssHCvltVWfQntxiGOWvZvbY6DqzishET83Kqefq35ypwQ9-J8r_kK_suRpuVXfLfx5EK3ifTI2XWYvbHoiIqp631o56PTIahSw5KAdnqnJjBfSYkXJErOkKriAnbeh8UmKh_-_xezEp4nUwIWr_8OhjPEVo5TXChqY_NpkEqRueuLchCxie-z3ZQFYJI0ZbYSsaIbGKLEhwLK9gXhxq6b8TOy_vhVDaxrlOMpqs2ccQqjh69N_dhhNzPkQL-AWAijZgZRmKOC7EQ3kfDAqBdwUWORM-3XmdAbdDm3P0F1zpZt-fL4te0jxYwkSOQjLn0ZfcAh8FcYvnPTZLIHIMtTk7ugMKHX46vxuaeaF3JWoPyhnBEC7wDISzcnV8nBGSqx-6e3nqxMq1xN08c4NTVuMutmH57apg59ThiyJeHuz9HM400reyWv7uui7-w14UnTn1AJRLG5qH4o-pRp2jnS7PJ1LgHY93pinzTQOJuLqyZwFbWGE5UzOmJmPl314A2L7TRiPtzb3QPm8jWLtxt895dfYOR_EQ7gAqSlmkhN1vksgobdBvmzQBXGkM9b2ZM0sVS6bg50DErx4TvM38pLI2BUzNXFoKYSXIqrWaouExPM6IaJV88yZXkd_4_oUbpqQoCAJo5MaYozKtWjepmbJ3P-BBdxsImGEKV_cmagfuacXVlR4KKn3FM14kpZ6whc5t_kqB3nf8xDdgXTaGMSXGSIyBKIyGGp8-2xirLGVqU6V0fE0fow2sqZ5J9lWZdVWL0-mE8CqXzKvnzr9Ltzb4L1wN3Vra9dcsUbEGBHQTijVNKnX6ATtou8Avexjh6Bn0PXTIuR3dyalFU9Aclos0xtwMCgd9O8qgH-Y8-paC0vAZGCOBdR3N6KfcuFQ..
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="ATV AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
 https://mugla.tvizlehd.com/atvavrupa.m3u8?tkn=dNGgvaGXqoXkrGQqlMXYvQ&tms=1639842702&hst=www.canlitv.devRZfhBBq3aLYYdJFBH6oG3IXaK7SCWeprdP-_SP9CKvSi71gtvKsuSJwYFetpG7jbn0Lifwa44DxNHTSvE26NkXlTjxwQFbGJ4Am8Qkv9hpNB0tbckR8nMaYkCHJn_KqFPLE0uZoAbglC7KczPvWA6d_kkf20ssHCvltVWfQntxiGOWvZvbY6DqzishET83Kqefq35ypwQ9-J8r_kK_suRpuVXfLfx5EK3ifTI2XWYvbHoiIqp631o56PTIahSw5KAdnqnJjBfSYkXJErOkKriAnbeh8UmKh_-_xezEp4nUwIWr_8OhjPEVo5TXChqY_NpkEqRueuLchCxie-z3ZQFYJI0ZbYSsaIbGKLEhwLK9gXhxq6b8TOy_vhVDaxrlOMpqs2ccQqjh69N_dhhNzPkQL-AWAijZgZRmKOC7EQ3kfDAqBdwUWORM-3XmdAbdDm3P0F1zpZt-fL4te0jxYwkSOQjLn0ZfcAh8FcYvnPTZLIHIMtTk7ugMKHX46vxuaeaF3JWoPyhnBEC7wDISzcnV8nBGSqx-6e3nqxMq1xN08c4NTVuMutmH57apg59ThiyJeHuz9HM400reyWv7uui7-w14UnTn1AJRLG5qH4o-pRp2jnS7PJ1LgHY93pinzTQOJuLqyZwFbWGE5UzOmJmPl314A2L7TRiPtzb3QPm8jWLtxt895dfYOR_EQ7gAqSlmkhN1vksgobdBvmzQBXGkM9b2ZM0sVS6bg50DErx4TvM38pLI2BUzNXFoKYSXIqrWaouExPM6IaJV88yZXkd_4_oUbpqQoCAJo5MaYozKtWjepmbJ3P-BBdxsImGEKV_cmagfuacXVlR4KKn3FM14kpZ6whc5t_kqB3nf8xDdgXTaGMSXGSIyBKIyGGp8-2xirLGVqU6V0fE0fow2sqZ5J9lWZdVWL0-mE8CqXzKvnzr9Ltzb4L1wN3Vra9dcsUbEGBHQTijVNKnX6ATtou8Avexjh6Bn0PXTIuR3dyalFU9Aclos0xtwMCgd9O8qgH-Y8-paC0vAZGCOBdR3N6KfcuFQ..
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL",TR: SHOW TV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL",TR: SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
 https://diss.tvizlehd.com/showturk.m3u8?tkn=3Qrm9j5B_z7V5D1wrLumyg&tms=1639841956&hst=www.canlitv.dev
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
 https://bursa.tvizlehd.com/showmax.m3u8?tkn=NbP0YHbp7aRUODyZbx97eQ&tms=1639842030&hst=www.canlitv.dev
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
 https://ankara.tvizlehd.com/eurostar.m3u8?tkn=yuBF--30HbMlVZrzdkLHGg&tms=1639798372&hst=www.canlitvizle.mobi
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="{CHNNEL_ID}" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
 https://bursa.tvizlehd.com/eurod.m3u8?tkn=I1-KWbxE6_JhNbYVRhwpFQ&tms=1639798335&hst=www.canlitvizle.mobi
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=zYfRx7bC4BHxGtdEu0BasA&e=1639790981
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="{CHNNEL_ID}" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
 https://mugla.tvizlehd.com/tv8.m3u8?tkn=GSrybaVxVaDBscB9fgMfYA&tms=1639842640&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
