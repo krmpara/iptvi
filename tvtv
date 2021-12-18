@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://yayinakisi.co/epg/krmkktrk/J2qrYl/1"
+#EXTM3U url-tgv="https://yayinakisi.co/epg/krmkktrk/J2qrYl/1"
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="TR | ULUSAL",TR: TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: ATV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ATV_SD.png" group-title="TR | ULUSAL",TR: ATV
