@@ -34,7 +34,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=2500&live=tr
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: 360 HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR | ULUSAL",TR: 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: A2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
-https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=CoNMC93lHGPaMf-1DrNpMQ&e=1639821911&SessionID=1.3.1418620455.1639770219&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
+https://izmir.tvizlehd.com/a2tv.m3u8?tkn=-NCaBYgOlijkOVvVSs11lA&tms=1639839373&hst=www.canlitv.page=0fe2a405-8afa-4238-b429-e5f96aec3a5c
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: TRT HABER HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",TR: TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: NTV HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",TR: NTV HD
