@@ -10,7 +10,7 @@ https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TÜRK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
 https://bursa.tvizlehd.com/showturk.m3u8?tkn=PAn29ckv6pQUl-23dB2aRg&tms=1639859478&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
-https://bursa.tvizlehd.com/showmax.m3u8?tkn=NbP0YHbp7aRUODyZbx97eQ&tms=1639842030&hst=www.canlitv.dev
+https://mugla.tvizlehd.com/eurostar.m3u8?tkn=Xm5FeVMcJY9v1seVJY-7fw&tms=1639859557&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
