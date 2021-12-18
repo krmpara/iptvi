@@ -18,7 +18,7 @@ https://mugla.tvizlehd.com/eurostar.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true&app=com.kanald&min=0&max=1250&min=0&max=1250
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8?live=true
+https://antalya.tvizlehd.com/eurod.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://istanbul.tvizlehd.com/foxtv.m3u8?tkn=3mZFEAdTQGuZOkv1JeHo2A&tms=1639858454&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
