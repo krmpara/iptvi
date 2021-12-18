@@ -8,7 +8,7 @@ https://mugla.tvizlehd.com/atvavrupa.m3u8?tkn=dNGgvaGXqoXkrGQqlMXYvQ&tms=1639842
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL",TR: SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TÜRK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
-https://diss.tvizlehd.com/showturk.m3u8?tkn=3Qrm9j5B_z7V5D1wrLumyg&tms=1639841956&hst=www.canlitv.dev
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639850947&st=d8lO4u7EQTGzzKupMSAxrA&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
 https://bursa.tvizlehd.com/showmax.m3u8?tkn=NbP0YHbp7aRUODyZbx97eQ&tms=1639842030&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
