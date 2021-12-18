@@ -22,7 +22,7 @@ https://antalya.tvizlehd.com/eurod.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://istanbul.tvizlehd.com/foxtv.m3u8?tkn=3mZFEAdTQGuZOkv1JeHo2A&tms=1639858454&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
-https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1639856092&st=hweco5KNDNQkMnIkL9Gq1g&tv=1
+https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL 7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
