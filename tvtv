@@ -15,17 +15,17 @@ https://bursa.tvizlehd.com/showmax.m3u8?tkn=NbP0YHbp7aRUODyZbx97eQ&tms=163984203
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
 https://ankara.tvizlehd.com/eurostar.m3u8?tkn=yuBF--30HbMlVZrzdkLHGg&tms=1639798372&hst=www.canlitvizle.mobi
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANALD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL D" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/kanald_2.png" group-title="TR | ULUSAL",TR: KANAL D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
 https://bursa.tvizlehd.com/eurod.m3u8?tkn=I1-KWbxE6_JhNbYVRhwpFQ&tms=1639798335&hst=www.canlitvizle.mobi
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=zYfRx7bC4BHxGtdEu0BasA&e=1639790981
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
 https://mugla.tvizlehd.com/tv8.m3u8?tkn=GSrybaVxVaDBscB9fgMfYA&tms=1639842640&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TR: KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL7 AVRUPA" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL7_AVRUPA_SD.png" group-title="TR | ULUSAL",TR: KANAL7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="BEYAZ TV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEYAZ_TV_HD.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
@@ -41,7 +41,7 @@ https://diss.tvizlehd.com/a2tv.m3u8?tkn=y7EMbw02X44_iGKkwaraxQ&tms=1639839516&hs
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="NTV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",TR: NTV HD
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="CNN TURK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CNN_TURK_HD.png" group-title="TR | HABER",TR: CNN TURK HD
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="CNN TÜRK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/CNN_TURK_HD.png" group-title="TR | HABER",TR: CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="HABER GLOBAL" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/HABER_GLOBAL_SD.png" group-title="TR | HABER",TR: HABER GLOBAL HD
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
@@ -82,7 +82,7 @@ https://diss.tvizlehd.com/apara.m3u8?tkn=UldaCQyqTfO4GHvAQ68L4A&tms=1639798887&h
 https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8?st=YqMnNl1-bMX2mLPH3ooE6g&e=1639829732&SessionID=1.3.652192648.1639784531&StreamGroup=canli-yayin&Site=anews&DeviceGroup=mobil
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TRT WORLD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_WORLD_SD.png" group-title="TR | HABER",TR: TRT WORLD HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="CNN INT" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER",TR: CNN INT.
+#EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="CNN INTERNATIONAL" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER",TR: CNN INT.
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="BBC WORLD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/1_0_19_587_4_42_1A40000_0_0_0.png" group-title="TR | HABER",TR: BBC WORLD HD
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d31e0a9529d06de1823a3d5a3c970d00a47340016ba6e874bc24bfefcc9e1805063cca59b64e9312bc3c550555f5b0b70740940fa2ad0cc1bd6e0baaba19368fe35b9712162425d00e03a65484552a95b62e7188dd8dccb5382f9140bc3210f4d5692db97033086618afa029bfff7384b218ad021487604f2af6b92c6e916dce14b3b3c684ccf9160c
