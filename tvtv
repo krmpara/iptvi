@@ -36,7 +36,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=2500&live=tr
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="360" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR | ULUSAL",TR: 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="A2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
-https://mugla.tvizlehd.com/eurostar.m3u8?tkn=Xm5FeVMcJY9v1seVJY-7fw&tms=1639859557&hst=www.canlitv.dev
+https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1639856092&st=hweco5KNDNQkMnIkL9Gq1g&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TRT HABER" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TRT_HABER_HD.png" group-title="TR | HABER",TR: TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="NTV" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/NTV_HD.png" group-title="TR | HABER",TR: NTV HD
