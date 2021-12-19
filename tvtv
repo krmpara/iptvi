@@ -10,7 +10,7 @@ https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639931747&st=TjNAE8pq7akh
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TÜRK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639931747&st=TjNAE8pq7akhx3imb8CPqw&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639931747&st=TjNAE8pq7akhx3imb8CPqw&tv=1
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639931856&st=vvhcfUe_NCkjIxQHC4TfkQ&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
 https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO STAR" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/EURO_STAR_SD.png" group-title="TR | ULUSAL",TR: EURO STAR
