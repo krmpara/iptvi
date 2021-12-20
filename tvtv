@@ -20,7 +20,7 @@ https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1640015337&st=-ZeNWspSLRQnE
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="EURO D" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/KANAL_D_EURO_SD.png" group-title="TR | ULUSAL",TR: EURO D
 https://antalya.tvizlehd.com/eurod.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FOX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/FOX_SD_DE.png" group-title="TR | ULUSAL",TR: FOX TV
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=qMA3XNq9TUm-RpMJtOunlw&e=1639933536
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1640015337&st=-ZeNWspSLRQnE6Tg34SL9Q&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TV8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR | ULUSAL",TR: TV8
 https://ankara.tvizlehd.com/tv8.m3u8?tkn=GuV6uNYe-nbgVp8iGDquiw&tms=1639941204&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="KANAL 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR | ULUSAL",TR: KANAL 7
