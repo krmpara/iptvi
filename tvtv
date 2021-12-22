@@ -32,7 +32,7 @@ https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="FLASH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg" group-title="TR | ULUSAL",TR: FLASH TV HD
 https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="TEVE2 " tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TEVE2_HD.png" group-title="TR | ULUSAL",TR: TEVE2 HD
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=2500&live=true&app=com.tv2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8?min=0&max=1250&live=true&app=com.tv2
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="360" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/360_HD.png" group-title="TR | ULUSAL",TR: 360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="A2" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/a2_250x150.png" group-title="TR | ULUSAL",TR: A2 HD
