@@ -8,7 +8,7 @@ https://ankara.tvizlehd.com/atvavrupa.m3u8?tkn=ZUA9UJeLFBARXrsOntLdgw&tms=163994
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR | ULUSAL",TR: SHOW TV
 https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8?st=CQU4YwGonjBsGkOlYulBQw&e=1640053811&SessionID=1.3.2013970514.1639926269&StreamGroup=canli-yayin&Site=&DeviceGroup=mobil&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW TÜRK" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_TURK_SD.png" group-title="TR | ULUSAL",TR: SHOW TURK
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639931747&st=TjNAE8pq7akhx3imb8CPqw&tv=1
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1640448281&st=pdAVX1n5uqwk_YvKmk0udw&tv=1
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="SHOW MAX" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/SHOW_MAX_SD.png" group-title="TR | ULUSAL",TR: SHOW MAX
 https://bursa.tvizlehd.com/showmax.m3u8?tkn=SPm_Y-7Ghb7Eq-jIZWbk1Q&tms=1640453848&hst=www.canlitv.dev
 #EXTINF:-1 tvg-ID="{CHNNEL_ID}" tvg-name="STAR TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/star250x150.png" group-title="TR | ULUSAL",TR: STAR TV
